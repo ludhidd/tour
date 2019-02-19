@@ -37,25 +37,8 @@ export default {
 		}
 	},
 	created(){
-	   // this.getCity()
-	   // console.log(this.$store.state.city)
 	},
 	methods:{
-		// getCity() {
-		//   axios.get('/data.json',
-		//	 {
-		//	   headers: {
-		//		 'Content-Type': 'application/json'
-		//	   }
-		//	 }
-		//   )
-		//   .then(response => {
-		//	 this.citys = response.data.city
-		//   })
-		//   .catch(error => {
-		//	 console.log(response);
-		//   });
-		// },
 		selectArea(param){
 			this.param = param
 		}
