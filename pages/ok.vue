@@ -91,51 +91,6 @@
 					return arr
 				}
 			},
-			// filterCity2(){
-			// 	let txt = this.$route.query.txt || ''
-			// 	if(txt === ''){
-			// 		this.change(false)
-			// 		return
-			// 	}else{
-			// 		let txt = this.txt
-			// 		let province = this.$store.state.city
-			// 		let len = province.length || 0
-			// 		let arr2 = []
-
-			// 		province.forEach(function(item,index,array){
-			// 			console.log(item)
-			// 			// item[index].forEach(function(item2,index2){
-			// 			// 	// console.log(item2+',' +index2)
-			// 			// 	console.log(1)
-			// 			// })
-			// 		})
-
-
-			// 		// for(let x=0;x<len;x++){
-			// 		// 	// console.log(province[i])
-			// 		// 	let len2 = province[x].child.length || 0
-
-			// 		// 	console.log(len2)
-			// 		// 	for(let y = 0;y< len2;y++){
-			// 		// 		let len3 = province[x].child[y].sonchild.length || 0
-			// 		// 		for(let z = 0;z < len3;z++){
-			// 		// 			// if(province[x].child[y].sonchild[z].name.indexOf(txt)>=0){
-			// 		// 			// 	arr2.push(province[x].child[y].sonchild[z])
-			// 		// 			// }
-			// 		// 			// arr2.push(province[x].child[y].sonchild[z].name)
-			// 		// 		}
-			// 		// 	}
-			// 		// }
-			// 		// console.log(arr2)
-
-			// 		// if(arr2.length === 0){
-			// 		// 	this.change(false)
-			// 		// }else{
-			// 		// 	this.change(true)
-			// 		// }
-			// 		// return arr2
-			// 	}
-			// }
 		}
 	}
 </script>
