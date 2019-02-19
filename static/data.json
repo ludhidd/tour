@@ -1,0 +1,284 @@
+{
+  "city": [
+    {
+      "name": "黑龙江省",
+      "description": "黑龙江省",
+      "img": "china-1.jpg",
+      "area": "东北",
+      "abbr":"黑",
+      "child":[
+        {
+          "name":"哈尔滨市"
+        },
+        {
+          "name":"齐齐哈尔市"
+        },
+        {
+          "name":"牡丹江市"
+        },
+        {
+          "name":"佳木斯市"
+        },
+        {
+          "name":"大庆市"
+        },
+        {
+          "name":"鸡西市"
+        },
+        {
+          "name":"双鸭山市"
+        },
+        {
+          "name":"伊春市"
+        },
+        {
+          "name":"七台河市"
+        },
+        {
+          "name":"鹤岗市"
+        },
+        {
+          "name":"黑河市"
+        },
+        {
+          "name":"绥化市"
+        },
+        {
+          "name":"大兴安岭地区"
+        }
+      ]
+    },
+    {
+      "name": "吉林省",
+      "description": "吉林省",
+      "img": "china-2.jpg",
+      "area": "东北",
+      "abbr":"吉"
+    },
+    {
+      "name": "辽宁省",
+      "description": "辽宁省",
+      "img": "china-3.jpg",
+      "area": "东北",
+      "abbr":"辽"
+    },
+    {
+      "name": "北京市",
+      "description": "北京市",
+      "img": "china-4.jpg",
+      "area": "华北",
+      "abbr":"京"
+    },
+    {
+      "name": "天津市",
+      "description": "天津市",
+      "img": "china-5.jpg",
+      "area": "华北",
+      "abbr":"津"
+    },
+    {
+      "name": "河北省",
+      "description": "河北省",
+      "img": "china-6.jpg",
+      "area": "华北",
+      "abbr":"冀"
+    },
+    {
+      "name": "山西省",
+      "description": "山西省",
+      "img": "china-7.jpg",
+      "area": "华北",
+      "abbr":"晋"
+    },
+    {
+      "name": "内蒙古自治区",
+      "description": "内蒙古自治区",
+      "img": "china-8.jpg",
+      "area": "华北",
+      "abbr":"内蒙古"
+    },
+    {
+      "name": "宁夏回族自治区",
+      "description": "宁夏回族自治区",
+      "img": "china-9.jpg",
+      "area": "西北",
+      "abbr":"宁"
+    },
+    {
+      "name": "新疆维吾尔自治区",
+      "description": "新疆维吾尔自治区",
+      "img": "china-10.jpg",
+      "area": "西北",
+      "abbr":"新"
+    },
+    {
+      "name": "青海省",
+      "description": "青海省",
+      "img": "china-11.jpg",
+      "area": "西北",
+      "abbr":"青"
+    },
+    {
+      "name": "陕西省",
+      "description": "陕西省",
+      "img": "china-12.jpg",
+      "area": "西北",
+      "abbr":"陕/秦"
+    },
+    {
+      "name": "甘肃省",
+      "description": "甘肃省",
+      "img": "china-13.jpg",
+      "area": "西北",
+      "abbr":"甘/陇"
+    },
+    {
+      "name": "山东省",
+      "description": "山东省",
+      "img": "china-14.jpg",
+      "area": "华东",
+      "abbr":"鲁"
+    },
+    {
+      "name": "江苏省",
+      "description": "江苏省",
+      "img": "china-15.jpg",
+      "area": "华东",
+      "abbr":"苏"
+    },
+    {
+      "name": "安徽省",
+      "description": "安徽省",
+      "img": "china-16.jpg",
+      "area": "华东",
+      "abbr":"皖"
+    },
+    {
+      "name": "浙江省",
+      "description": "浙江省",
+      "img": "china-17.jpg",
+      "area": "华东",
+      "abbr":"浙"
+    },
+    {
+      "name": "福建省",
+      "description": "福建省",
+      "img": "china-18.jpg",
+      "area": "华东",
+      "abbr":"闽"
+    },
+    {
+      "name": "上海市",
+      "description": "上海市",
+      "img": "china-19.jpg",
+      "area": "华东",
+      "abbr":"沪"
+    },
+    {
+      "name": "湖北省",
+      "description": "湖北省",
+      "img": "china-20.jpg",
+      "area": "华中",
+      "abbr":"鄂"
+    },
+    {
+      "name": "湖南省",
+      "description": "湖南省",
+      "img": "china-21.jpg",
+      "area": "华中",
+      "abbr":"湘"
+    },
+    {
+      "name": "河南省",
+      "description": "河南省",
+      "img": "china-22.jpg",
+      "area": "华中",
+      "abbr":"豫"
+    },
+    {
+      "name": "江西省",
+      "description": "江西省",
+      "img": "china-23.jpg",
+      "area": "华东",
+      "abbr":"赣"
+    },
+    {
+      "name": "四川省",
+      "description": "四川省",
+      "img": "china-24.jpg",
+      "area": "西南",
+      "abbr":"川/蜀"
+    },
+    {
+      "name": "云南省",
+      "description": "云南省",
+      "img": "china-25.jpg",
+      "area": "西南",
+      "abbr":"云/滇"
+    },
+    {
+      "name": "贵州省",
+      "description": "贵州省",
+      "img": "china-26.jpg",
+      "area": "西南",
+      "abbr":"贵/黔"
+    },
+    {
+      "name": "西藏自治区",
+      "description": "西藏自治区",
+      "img": "china-27.jpg",
+      "area": "西南",
+      "abbr":"藏"
+    },
+    {
+      "name": "重庆市",
+      "description": "重庆市",
+      "img": "china-28.jpg",
+      "area": "西南",
+      "abbr":"渝/巴"
+    },
+    {
+      "name": "广东省",
+      "description": "广东省",
+      "img": "china-29.jpg",
+      "area": "华南",
+      "abbr":"粤"
+    },
+    {
+      "name": "广西壮族自治区",
+      "description": "广西壮族自治区",
+      "img": "china-30.jpg",
+      "area": "华南",
+      "abbr":"桂"
+    },
+    {
+      "name": "海南省",
+      "description": "海南省",
+      "img": "china-31.jpg",
+      "area": "华南",
+      "abbr":"琼"
+    },
+    {
+      "name": "台湾省",
+      "description": "台湾省",
+      "img": "china-32.jpg",
+      "area": "华东",
+      "abbr":"台"
+    },
+    {
+      "name": "香港特别行政区",
+      "description": "香港特别行政区",
+      "img": "china-33.jpg",
+      "area": "华南",
+      "abbr":"港"
+    },
+    {
+      "name": "澳门特别行政区",
+      "description": "澳门特别行政区",
+      "img": "china-34.jpg",
+      "area": "华南",
+      "abbr":"澳"
+    }
+  ]
+}
+
